@@ -29,7 +29,6 @@ Curto resolver problemas, aprender coisas novas e deixar o código sempre com aq
 
 ## 📊 Meus stats por aqui
 
-![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxcaioken&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxcaioken&layout=compact&theme=radical)
 
 ---
