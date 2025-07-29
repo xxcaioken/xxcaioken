@@ -40,10 +40,7 @@ Curto resolver problemas, aprender coisas novas e deixar o código sempre com aq
 [![GitHub](https://img.shields.io/badge/-Meus%20Repositórios-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xxcaioken)  
 
 ---
-## Procurando por algo divertido?
 
-[![Play Doom](https://img.shields.io/badge/Play%20DOOM-%F0%9F%94%AB-red?style=for-the-badge)](https://js-dos.com/games/doom.exe.html)
---- 
 
 > “Código bom é aquele que a gente se orgulha de revisitar daqui a um ano.”  
 
